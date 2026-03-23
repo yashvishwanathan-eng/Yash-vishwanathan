@@ -2,7 +2,7 @@ hi
 edict the future is to build it." — Alan Kay</i></p>
  I did it by mistake. In order to create a README for my profile, I created this. Sorry for ignoring it if you see this. This is not a regular repository; it's just a dummy repository which was created instead of my profile building. Thank you. 
 [README (4).md](https://github.com/user-attachments/files/26182160/README.4.md)
-# Dhamni
+# yash vishwanathan
 
 > A personal workspace and portfolio hub — curated links, projects, and resources that represent my ongoing work as a developer.
 
